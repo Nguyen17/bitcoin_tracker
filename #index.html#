@@ -1,0 +1,48 @@
+ody><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>BitTrack IO</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Muli|Rokkitt|Arimo" rel="stylesheet"> 
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+</head>
+<body>
+    
+<div class="wrapper">
+    <header>
+        
+        <h1><img src="icons8-Bitcoin.png" alt="" srcset="">BitTrack IO</h1>
+    </header>
+    <section id = "btc-price">
+        <p>$5,500</p>
+    </section>
+    <div class="table-info">
+        <div class="date-month">
+            <!-- insert month -->
+            <ul>
+
+            </ul>
+        </div>
+        <div class="month-price">
+            <!-- insert price -->
+            <ul>
+                
+            </ul>
+        </div>
+    </div>
+    <footer>
+        <p>made by <a href="#">@nguyen17</a></p>
+    </footer>
+
+</div>
+
+
+
+<!-- Script -->
+<script src="script.js"></script>
+</body>
+</html>
