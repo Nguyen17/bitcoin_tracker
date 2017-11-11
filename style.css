@@ -1,0 +1,44 @@
+header {
+    text-align: center;
+    /* border: 1px solid black; */
+
+}
+header h1 {
+    font-size: 82px;
+    font-family: 'Muli';
+}
+#btc-price{
+  
+    color: #00e640;
+
+}
+#btc-price p {
+    font-size: 100px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+.table-info{
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.table-info ul {
+    display: flex;
+    flex-direction: column;
+    
+}
+li{
+    list-style: none;
+}
+.date-month{
+    border-right: black;
+}
+.month-price{
+    background-color: white;
+}
